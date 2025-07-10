@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "해피투게더",
+    "category": "movie",
+    "year": 1997,
+    "genre": "로맨스, 드라마",
+    "poster": "https://i.namu.wiki/i/AGE-8gW4dmNgKpiu-Z5qqU2y-15MY5JYolT6qxRnm5hu7RQN_XV5GPiOVrZSQfRIgCUS1GFdkOqXEuhg1RO276NTBAeMRhPvGnO2P_rSnp2RvXTdWCX9V2GjkRHojkyN9WT9pR7N_6ZJVESpmfS3gA.jpg",
+    "description": "그가 다시 시작하자고 하면 난 늘 그와 함께했다. 홍콩을 떠나 지구 반대편 부에노스아이레스에 온 ‘보영’과 ‘아휘’ 이과수 폭포를 찾아가던 중 두 사람은 사소한 다툼 끝에 이별하고 각자의 길을 떠난다.",
+    "rating": 9.2,
+    "director": "김성훈",
+    "cast": ["주지훈", "배두나", "류승룡", "허준호"],
+    "episodes": 12,
+    "runtime": "45-60분"
+  },
+  {
+    "id": 2,
+    "title": "기생충",
+    "category": "movie",
+    "year": 2019,
+    "genre": "드라마",
+    "poster": "https://via.placeholder.com/300x375/764ba2/ffffff?text=기생충",
+    "description": "봉준호 감독의 작품으로 아카데미 작품상을 수상한 영화. 반지하에 사는 기택 가족과 고대 사장 가족의 만남을 통해 계급 간의 갈등을 그린 작품이다. 칸 영화제 황금종려상과 아카데미 4관왕을 수상하며 한국 영화의 위상을 높였다.",
+    "rating": 9.5,
+    "director": "봉준호",
+    "cast": ["송강호", "이선균", "조여정", "최우식", "박소담"],
+    "runtime": "132분",
+    "awards": ["아카데미 작품상", "칸 영화제 황금종려상"]
+  }
+]
